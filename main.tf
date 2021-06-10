@@ -15,7 +15,7 @@ terraform {
     organization = "gh-actions-demo-dipo"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "gh-actions-demo-dipo"
     }
   }
 }
